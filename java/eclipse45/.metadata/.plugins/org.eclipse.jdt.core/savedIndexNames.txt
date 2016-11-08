@@ -1,0 +1,18 @@
+INDEX VERSION 1.127+/media/cy/Tools/work/gitHubWorkSpace/java/eclipse45/.metadata/.plugins/org.eclipse.jdt.core
+2451393528.index
+3191741580.index
+326316308.index
+2974832732.index
+3394603342.index
+1880428820.index
+2210306951.index
+2222198315.index
+285622784.index
+33459322.index
+4061711157.index
+283039305.index
+3528892075.index
+2514545177.index
+125807137.index
+1009521124.index
+1630181025.index
