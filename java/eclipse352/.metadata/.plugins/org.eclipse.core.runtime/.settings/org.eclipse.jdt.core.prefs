@@ -1,0 +1,6 @@
+#Sun Aug 28 16:59:57 CST 2016
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=/cyspace/install/java/jdk1.8.0_91/jre/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=/cyspace/install/java/jdk1.8.0_91/src.zip
+eclipse.preferences.version=1
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled

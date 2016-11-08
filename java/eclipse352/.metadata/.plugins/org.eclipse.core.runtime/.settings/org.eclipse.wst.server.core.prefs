@@ -1,0 +1,4 @@
+#Sun Aug 28 10:09:22 CST 2016
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="JBoss v4.2" location\="/cyspace/install/jboss4.2.3/bin" name\="JBoss v4.2" runtime-type-id\="org.eclipse.jst.server.generic.runtime.jboss42" server_definition_id\="org.eclipse.jst.server.generic.runtime.jboss42" timestamp\="4">\n    <map key\="generic_server_instance_properties" serverRootDirectory\="/cyspace/install/jboss4.2.3"/>\n  </runtime>\n</runtimes>\n
+eclipse.preferences.version=1
